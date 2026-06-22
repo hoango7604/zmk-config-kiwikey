@@ -13,8 +13,9 @@
             tapping-term-ms = <200>;
             bindings = <&kp>, <&kp>;
             display-name = "Mod-Tap";
-        }
-    }
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
